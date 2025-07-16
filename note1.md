@@ -1,6 +1,5 @@
 ### Stable Diffusion 3.5 Large Turbo 模型架构详细解释
 
-根据提供的PDF文件（Hugging Face上的Stable Diffusion 3.5 Large Turbo模型卡片），我将详细解释这个模型的架构。解释基于文档中的描述，包括模型类型、组件、实现细节和技术创新。我会尽量结构化地分解，结合文档中的关键点，并避免超出文档范围的推测。如果需要代码示例或更深入的数学细节，可以参考文档中的Research paper（arxiv:2403.03206）或技术报告。
 
 #### 1. **模型整体概述**
 - **模型类型**：MMDiT text-to-image generative model（多模态扩散Transformer文本到图像生成模型）。
